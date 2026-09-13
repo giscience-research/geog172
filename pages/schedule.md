@@ -11,7 +11,7 @@ Readings will be primarily drawn from R21 and O10, but in selected weeks the [re
 
 | Week | Day   | Date   | Topic | Reading |
 | ---  | ---   | ---    | ---   | ---     |
-| 1    | T     | 9/24   | Welcome to Geographical Analysis | --- |
+| 1    | R     | 9/24   | Welcome to Geographical Analysis | --- |
 | 1    | T     | 9/29   | What is Spatial Data? | --- | 
 |      | R     | 10/1   | **No Class** - Independent Review | R21-C2; O10-C1 |
 | 2    | T     | 10/6   | Centrography, Geography's Version of the Mean | R21-C3 |

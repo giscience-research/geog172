@@ -14,7 +14,7 @@ A series of computational notebooks presenting geographic concepts and spatial s
 <!-- [WK1 - ]() -->
 
 ## Independent Online Resources
-[R For Data Science 2e](https://r4ds.hadley.nz/): Free web version of book in R Series. Introduces R and the tidyverse. For a more basic introduction see [Hands on Programing with R]()
+[R For Data Science 2e](https://r4ds.hadley.nz/): Free web version of book in R Series. Introduces R and the tidyverse. For a more basic introduction see [Hands on Programming with R]()
 
 [Geocomputation with R](https://geocompr.robinlovelace.net): Free web version of book in R Series. Contains details on manipulating spatial data in R.
 

@@ -13,7 +13,7 @@ GEOG 172 is designed to help students learn quantitative methods for the analysi
 Complete details of the course are presented in the Syllabus.
 
 ## Readings
-[Readings](pages/readings.md) will be primarily drawn from Rogerson (2021) *Spatial Statistical Methods for Geography* and O'Sullivan and Unwin (2010) *Geographic Information Analysis*. Electronic version of both texts are availble through the UCSB library, and will be provided here. In selected weeks readings for the course will come from other texts.
+[Readings](pages/readings.md) will be primarily drawn from Rogerson (2021) *Spatial Statistical Methods for Geography* and O'Sullivan and Unwin (2010) *Geographic Information Analysis*. Electronic version of both texts are available through the UCSB library, and will be provided here. In selected weeks readings for the course will come from other texts.
 
 ## Resources
 [Resources](pages/resources.md) designed to facilitate student learning include freely available, online resources developed by scholars independent of this course, and materials developed specifically for this course.
