@@ -7,13 +7,13 @@ title: Tutorials
 
 Students will have the opportunity to complete seven tutorial assignments each worth 12 percent of their overall grade, which will account for 85 percent of their overall grade.
 
-Tutorial assignments will be due at 5pm one week after the tutorial session in which they were assigned (e.g., 5pm the following Thursday or Friday). Tutorial assignments involve a combination of work conducted in the weekly two hour tutorial session and independent work completing the assigned analysis and writing up the results. Students are encouraged to work with others when preparing their assignments. However, students must
+Tutorial assignments will be due at 5pm one week after the tutorial session in which they were assigned (e.g., 5pm the following Thursday or Friday). Tutorial assignments involve a combination of work conducted in the weekly two hour tutorial session and independent work completing the assigned analysis and writing up the results. Students are encouraged to work with others when preparing their assignments. However, students must: 
 
 - submit their own assignments
 - report who they help with the assignment
 - report who helped them with their assignment
 
-Tutorial assignments will be due at the start of the next tutorial session in which they were assigned (e.g., start of tutorial the following Thursday or Friday). Assignments will be submitted by uploading their materials (computational notebook, report, and data) to courses Canvas. Later assignments will receive a 25% deduction for the overall potential grade for each day they are late
+Tutorial assignments will be due at the start of the next tutorial session in which they were assigned (e.g., start of tutorial the following Thursday or Friday). Assignments will be submitted by uploading their materials (computational notebook, report, and data) to courses Canvas. Later assignments will receive a 25% deduction for the overall potential grade for each day they are late. More detailed instructions on how to format and submit tutorial assignments will be provided in the first tutorial session.
 
 Solutions to the tutorial assignments will be provided on the course website after the due date for each assignment.
 

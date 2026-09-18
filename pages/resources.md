@@ -13,7 +13,18 @@ Very brief summaries that highlight the concepts and central lessons of in-class
 
 A series of computational notebooks presenting geographic concepts and spatial statistics with R code demonstrating their implementation. These materials draw extensively from *Spatial Statistics for Geography* and *Geographic Information Analysis*.
 
-<!-- [WK1 - ]() -->
+| Week | Demonstration |
+| --- | --- |
+| 1 | [Learning the Data Generating Process](../demo/WK1-DGP.html) |
+| 2 | TBD |
+| 3 | TBD |
+| 4 | TBD |
+| 5 | TBD |
+| 6 | TBD |
+| 7 | TBD |
+| 8 | TBD |
+| 9 | TBD |
+| 10 | TBD |
 
 ## Independent Online Resources
 
