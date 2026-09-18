@@ -35,11 +35,10 @@ GEOG 172 is designed to help students learn quantitative methods for the analysi
 
 ## Resources
 
-[Resources](pages/resources.md) designed to facilitate student learning include freely available, online resources developed by scholars independent of this course, and materials developed specifically for this course. The activities covered in the lecture will be posted for students to review. Most lectures will also come with code demos that will contain examples of problems very much like the ones that students will be asked to do in their tutorial assignments. Students are highly encouraged to use these resources to help them complete their tutorial assignments.
+[Resources](pages/resources.md) designed to facilitate student learning include freely available, online resources developed by scholars independent of this course, and materials developed specifically for this course. A brief summary of the activities covered in the lecture will be posted for students to review, along with the activity worksheets, if applicable. Most lectures will also come with code demos that will contain examples of problems very much like the ones that students will be asked to do in their tutorial assignments. Students are highly encouraged to use these resources to help them complete their tutorial assignments.
 
 <br>
 
----
 
 *Note: More details of the course are presented in the syllabus.*
 

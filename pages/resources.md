@@ -7,7 +7,29 @@ title: Resources
 
 Very brief summaries that highlight the concepts and central lessons of in-class activities. These materials are reminders, not substitutes for participating in the activities themselves.
 
-<!-- [WK1 - ]() -->
+<details>
+<summary>&nbsp; Week 0 - Mapping Our Geographic Experience</summary>
+<br>
+
+TBD
+
+</details>
+
+<details>
+<summary>&nbsp; Week 1 - Pin It to Win It</summary>
+<br>
+
+TBD
+
+</details>
+
+<details>
+<summary>&nbsp; Week 1 - The Cancer Map Mystery</summary>
+<br>
+
+TBD
+
+</details>
 
 ## Statistical Demonstrations
 
@@ -15,6 +37,7 @@ A series of computational notebooks presenting geographic concepts and spatial s
 
 | Week | Demonstration |
 | --- | --- |
+| 0 | --- |
 | 1 | [Learning the Data Generating Process](../demo/WK1-DGP.html) |
 | 2 | TBD |
 | 3 | TBD |
