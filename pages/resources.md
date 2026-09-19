@@ -9,27 +9,32 @@ Very brief summaries that highlight the concepts and central lessons of in-class
 
 <details>
 <summary>&nbsp; Week 0 - Mapping Our Geographic Experience</summary>
-<br>
+<div style="margin-left: 1.25rem; margin-top: 0.5rem;">
 
-TBD
+The activity for Week 0 is centered around building a collective map of geographic experience across the classroom. Through the placement of points for places students know well and places they hope to visit, we begin to see how familiarity, travel, and social context shape the spatial distribution of knowledge. The exercise highlights how a simple map can reveal spatial patterns, how those patterns can be interpreted as evidence of underlying processes, and how geographic experience influences the data we generate. The key takeaway is that observation and explanation are distinct: a map shows a pattern, but understanding why that pattern exists requires careful attention to the processes and people behind it.
 
+</div>
 </details>
 
 <details>
 <summary>&nbsp; Week 1 - Pin It to Win It</summary>
-<br>
+<div style="margin-left: 1.25rem; margin-top: 0.5rem;">
 
 TBD
 
+</div>
 </details>
 
 <details>
 <summary>&nbsp; Week 1 - The Cancer Map Mystery</summary>
-<br>
+<div style="margin-left: 1.25rem; margin-top: 0.5rem;">
 
 TBD
 
+</div>
 </details>
+
+<br>
 
 ## Statistical Demonstrations
 
