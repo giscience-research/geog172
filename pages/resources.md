@@ -44,7 +44,7 @@ A series of computational notebooks presenting geographic concepts and spatial s
 | --- | --- |
 | 0 | --- |
 | 1 | [Learning the Data Generating Process](../demo/WK1-DGP.html) |
-| 2 | TBD |
+| 2 | [Locating the Center of the U.S. Population](../demo/WK2-Centrography.html) <br> Drawing the U.S. Hu Line |
 | 3 | TBD |
 | 4 | TBD |
 | 5 | TBD |
@@ -55,6 +55,13 @@ A series of computational notebooks presenting geographic concepts and spatial s
 | 10 | TBD |
 
 ## Independent Online Resources
+
+### Getting R installed
+
+Two resources for installing R and RStudio and getting started with R:
+
+- [ModernDive, Chapter 1: Getting Started with Data in R](https://moderndive.com/v2/01-getting-started.html)
+- [swirl](https://swirlstats.com/students.html): An interactive way to learn R in the R console.
 
 [R For Data Science 2e](https://r4ds.hadley.nz/): Free web version of book in R Series. Introduces R and the tidyverse.
 
