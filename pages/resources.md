@@ -56,8 +56,6 @@ A series of computational notebooks presenting geographic concepts and spatial s
 
 ## Independent Online Resources
 
-### Getting R installed
-
 Two resources for installing R and RStudio and getting started with R:
 
 - [ModernDive, Chapter 1: Getting Started with Data in R](https://moderndive.com/v2/01-getting-started.html)

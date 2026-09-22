@@ -39,6 +39,7 @@ GEOG 172 is designed to help students learn quantitative methods for the analysi
 
 <br>
 
+Note: More details of the course are presented in the <strong><span style="font-size: 1.2em;"><a href="assets/syllabus.pdf">syllabus</a></span></strong>.
 
-*Note: More details of the course are presented in the syllabus.*
+For questions about lecture materials, tutorials, or course logistics, use the <strong><span style="font-size: 1.2em;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd4bqYD4J3pDiZeO9c0QZ1nNfzdohcwmUSlw0S0R2Adc-Qyng/viewform?usp=publish-editor">Help Desk</a></span></strong>.
 
