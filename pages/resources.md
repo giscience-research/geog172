@@ -45,7 +45,7 @@ A series of computational notebooks presenting geographic concepts and spatial s
 | 0 | --- |
 | 1 | [Learning the Data Generating Process](../demo/WK1-DGP.html) |
 | 2 | [Locating the Center of the U.S. Population](../demo/WK2-Centrography.html) <br> [Drawing the U.S. Hu Line](../demo/WK2-HuLine.html) |
-| 3 | TBD |
+| 3 | [Impacted Inference](../demo/WK3-Inference.html) <br> [Spatial Sampling Schemes](../demo/WK3-Sampling.html) |
 | 4 | TBD |
 | 5 | TBD |
 | 6 | TBD |
