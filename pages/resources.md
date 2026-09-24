@@ -12,7 +12,7 @@ Activity summaries provide very brief overviews of the key concepts and lessons 
 
 The activity for Week 0 is centered around building a collective map of geographic experience across the classroom. Through the placement of points for places students know well and places they hope to visit, we begin to see how familiarity, travel, and social context shape the spatial distribution of knowledge. The exercise highlights how a simple map can reveal spatial patterns, how those patterns can be interpreted as evidence of underlying processes, and how geographic experience influences the data we generate. The key takeaway is that observation and explanation are distinct: a map shows a pattern, but understanding why that pattern exists requires careful attention to the processes and people behind it.
 
-[Lecture Slides](../slides/WK0-Introduction.pdf)
+<a href="../slides/WK0-Introduction.pdf">Lecture Slides</a>
 
 </details>
 
