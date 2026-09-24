@@ -3,21 +3,23 @@ layout: page
 title: Resources
 ---
 
-## Activity Summaries
+## Lecture and Activity Summaries
 
-Very brief summaries that highlight the concepts and central lessons of in-class activities. These materials are reminders, not substitutes for participating in the activities themselves.
+Activity summaries provide very brief overviews of the key concepts and lessons covered in each week's lectures and activities. The slides are posted along. These materials serve as reminders, not substitutes for participating in the activities or attending the lectures themselves.
 
 <details>
-<summary>&nbsp; Week 0 - Mapping Our Geographic Experience</summary>
+<summary><strong>&nbsp; Week 0 - Mapping Our Geographic Experience</strong></summary>
 
 The activity for Week 0 is centered around building a collective map of geographic experience across the classroom. Through the placement of points for places students know well and places they hope to visit, we begin to see how familiarity, travel, and social context shape the spatial distribution of knowledge. The exercise highlights how a simple map can reveal spatial patterns, how those patterns can be interpreted as evidence of underlying processes, and how geographic experience influences the data we generate. The key takeaway is that observation and explanation are distinct: a map shows a pattern, but understanding why that pattern exists requires careful attention to the processes and people behind it.
+
+[Lecture Slides](../slides/WK0-Introduction.pdf)
 
 </details>
 
 <br>
 
 <details>
-<summary>&nbsp; Week 1 - Pin It to Win It</summary>
+<summary><strong>&nbsp; Week 1 - Pin It to Win It & The Cancer Map Mystery</strong></summary>
 
 &nbsp;&nbsp;TBD
 
@@ -26,7 +28,7 @@ The activity for Week 0 is centered around building a collective map of geograph
 <br>
 
 <details>
-<summary>&nbsp; Week 1 - The Cancer Map Mystery</summary>
+<summary><strong>&nbsp; Week 2 - The Center Hunter</strong></summary>
 
 &nbsp;&nbsp;TBD
 
