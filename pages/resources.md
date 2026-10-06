@@ -34,12 +34,8 @@ This week's activities introduce spatial data as observations tied to locations 
 <details>
 <summary><strong>&nbsp; Week 2 - The Center Hunter</strong></summary>
 
-This week's activity introduces centrography by asking students to summarize the spatial patterns they created during the Week 1 GeoGuessr exercise. In the first exercise, <em>The Center Hunter</em>, students calculate the mean center of the class's guesses for Meredith, New Hampshire by averaging the x- and y-coordinates separately, then compare the calculated center with their visual estimate and consider the influence of an outlier.
-
+This week's activity introduces centrography by asking students to summarize the spatial patterns they created during the Week 1 GeoGuessr exercise. In the first exercise, <em>The Center Hunter</em>, students calculate the mean center of the class's guesses for Meredith, New Hampshire by averaging the x- and y-coordinates separately, then compare the calculated center with their visual estimate and consider the influence of an outlier. In the second exercise, they calculate a weighted mean center for guesses about Minneapolis, Minnesota, using the population of each guess's state as the weight. Comparing the unweighted and weighted centers shows how an attribute can change the question a spatial summary answers: more populous states exert greater influence, shifting the center toward observations with larger weights. The central lesson is that a center is a concise description of a spatial distribution, not a complete representation of its pattern, and that weighting changes the meaning of that description.
 <br>
-
-In the second exercise, they calculate a weighted mean center for guesses about Minneapolis, Minnesota, using the population of each guess's state as the weight. Comparing the unweighted and weighted centers shows how an attribute can change the question a spatial summary answers: more populous states exert greater influence, shifting the center toward observations with larger weights. The central lesson is that a center is a concise description of a spatial distribution, not a complete representation of its pattern, and that weighting changes the meaning of that description.
-
 <a href="../slides/WK2-C1-Centrography.pdf">Lecture Slides</a>
 
 </details>
