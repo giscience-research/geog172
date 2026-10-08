@@ -38,7 +38,7 @@ This week's activity introduces centrography by asking students to summarize the
 <br>
 <a href="../slides/WK2-C1-Centrography.pdf">Lecture Slides - Centrography</a>
 <br>
-<a href="../slides/WK2-C2-SpatialInequality">Lecture Slides - Spatial Inequality</a>
+<a href="../slides/WK2-C2-SpatialInequality.pdf">Lecture Slides - Spatial Inequality</a>
 
 </details>
 
