@@ -13,7 +13,7 @@ Activity summaries provide very brief overviews of the key concepts and lessons 
 The activity for Week 0 is centered around building a collective map of geographic experience across the classroom. Through the placement of points for places students know well and places they hope to visit, we begin to see how familiarity, travel, and social context shape the spatial distribution of knowledge. The exercise highlights how a simple map can reveal spatial patterns, how those patterns can be interpreted as evidence of underlying processes, and how geographic experience influences the data we generate. The key takeaway is that observation and explanation are distinct: a map shows a pattern, but understanding why that pattern exists requires careful attention to the processes and people behind it.
 
 <br>
-<a href="../slides/WK0-Introduction.pdf">Lecture Slides</a>
+<a href="../slides/WK0-Introduction.pdf">Lecture Slides - Introduction</a>
 
 </details>
 
@@ -25,7 +25,7 @@ The activity for Week 0 is centered around building a collective map of geograph
 This week's activities introduce spatial data as observations tied to locations and shaped by the data-generating process. In <em>Pin It to Win It</em>, students use visual geographic clues to estimate locations on a U.S. map, showing how different prior knowledge and uncertainty can produce different spatial observations from the same information. In <em>The Cancer Map Mystery</em>, they compare maps of high and low kidney cancer rates and test whether striking geographic patterns can arise from random variation when population sizes differ. The central lesson is that a map reveals a pattern, but understanding that pattern requires asking how the data were produced, what denominator was used, and whether chance or measurement choices are driving the apparent structure.
 
 <br>
-<a href="../slides/WK1-SpatialData.pdf">Lecture Slides</a>
+<a href="../slides/WK1-SpatialData.pdf">Lecture Slides - Spatial Data</a>
 
 </details>
 
@@ -36,7 +36,9 @@ This week's activities introduce spatial data as observations tied to locations 
 
 This week's activity introduces centrography by asking students to summarize the spatial patterns they created during the Week 1 GeoGuessr exercise. In the first exercise, <em>The Center Hunter</em>, students calculate the mean center of the class's guesses for Meredith, New Hampshire by averaging the x- and y-coordinates separately, then compare the calculated center with their visual estimate and consider the influence of an outlier. In the second exercise, they calculate a weighted mean center for guesses about Minneapolis, Minnesota, using the population of each guess's state as the weight. Comparing the unweighted and weighted centers shows how an attribute can change the question a spatial summary answers: more populous states exert greater influence, shifting the center toward observations with larger weights. The central lesson is that a center is a concise description of a spatial distribution, not a complete representation of its pattern, and that weighting changes the meaning of that description.
 <br>
-<a href="../slides/WK2-C1-Centrography.pdf">Lecture Slides</a>
+<a href="../slides/WK2-C1-Centrography.pdf">Lecture Slides - Centrography</a>
+<br>
+<a href="../slides/WK2-C2-SpatialInequality">Lecture Slides - Spatial Inequality</a>
 
 </details>
 
