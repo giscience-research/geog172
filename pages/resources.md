@@ -52,6 +52,7 @@ In <em>Spatial Clues in the New England Woods</em>, students work in pairs to cl
 
 <br>
 <a href="../slides/WK3-C1-Randomness.pdf">Lecture Slides - Randomness and Spatial Effects</a>
+<a href="../slides/WK3-C2-SpatialSampling.pdf">Lecture Slides - Spatial Sampling</a>
 
 </details>
 
