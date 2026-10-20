@@ -72,10 +72,10 @@ A series of computational notebooks presenting geographic concepts and spatial s
 | 2 | [Locating the Center of the U.S. Population](../demo/WK2-Centrography.html) <br> [Drawing the U.S. Hu Line](../demo/WK2-HuLine.html) |
 | 3 | [Spatial Data Generating Processes](../demo/WK3-Spatial-Process.html) <br> [Spatial Sampling Schemes](../demo/WK3-Sampling.html) |
 | 4 | [Point Pattern Analysis](../demo/WK4-Point-Pattern.html) |
-| 5 | TBD |
-| 6 | TBD |
-| 7 | TBD |
-| 8 | Impacted Inference |
+| 5 | [Understanding Modifiable Area Unit Problem](../demo/WK5-MAUP.html) |
+| 6 | [Global Statistics](../demo/WK6-Global.html)<br> [Moran's I Calculation](../demo/Morans-I-by-Hand.pdf) |
+| 7 | [Local Statistics](../demo/WK7-Local.html) |
+| 8 | [Impacted Inference](../demo/WK8-Inference.html) |
 | 9 | TBD |
 | 10 | TBD |
 
