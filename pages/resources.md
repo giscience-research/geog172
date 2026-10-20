@@ -35,6 +35,7 @@ This week's activities introduce spatial data as observations tied to locations 
 <summary><strong>&nbsp; Week 2 - The Center Hunter</strong></summary>
 
 This week's activity introduces centrography by asking students to summarize the spatial patterns they created during the Week 1 GeoGuessr exercise. In the first exercise, <em>The Center Hunter</em>, students calculate the mean center of the class's guesses for Meredith, New Hampshire by averaging the x- and y-coordinates separately, then compare the calculated center with their visual estimate and consider the influence of an outlier. In the second exercise, they calculate a weighted mean center for guesses about Minneapolis, Minnesota, using the population of each guess's state as the weight. Comparing the unweighted and weighted centers shows how an attribute can change the question a spatial summary answers: more populous states exert greater influence, shifting the center toward observations with larger weights. The central lesson is that a center is a concise description of a spatial distribution, not a complete representation of its pattern, and that weighting changes the meaning of that description.
+
 <br>
 <a href="../slides/WK2-C1-Centrography.pdf">Lecture Slides - Centrography</a>
 <br>
@@ -44,6 +45,7 @@ This week's activity introduces centrography by asking students to summarize the
 
 <br>
 <details>
+
 <summary><strong>&nbsp; Week 3 - The Random Orchard Challenge & Spatial Clues in the New England Woods</strong></summary>
 
 This week's activities introduce the absence of independence and the different processes that can shape spatial variation. In <em>The Random Orchard Challenge</em>, students try to plant 30 fruit trees randomly within a rectangular plot, then inspect another group's orchard by scoring the concentration of trees across a grid. They compare their scores with a distribution generated from many computer-simulated random orchards and discover that random patterns can contain clusters, gaps, and uneven spacing. The activity highlights how people often produce or interpret regularity when they try to create randomness, and it motivates the use of spatial statistics when observations are not independent.
@@ -54,6 +56,18 @@ In <em>Spatial Clues in the New England Woods</em>, students work in pairs to cl
 <a href="../slides/WK3-C1-Randomness.pdf">Lecture Slides - Randomness and Spatial Effects</a>
 <a href="../slides/WK3-C2-SpatialSampling.pdf">Lecture Slides - Spatial Sampling</a>
 
+</details>
+
+
+<br>
+
+<details>
+<summary><strong>&nbsp; Week 4 - The Random Orchard Audit</strong></summary>
+
+This week's activity revisits the Random Orchard using a separation-based approach to point-pattern analysis. Working as auditors, students identify the nearest neighbor for each of ten focal plants, calculate the observed mean nearest-neighbor distance, and compare it with the expected distance under complete spatial randomness. They use the resulting nearest-neighbor index to assess whether each orchard is clustered, dispersed, or consistent with random planting. Students then repeat the audit with a guard area surrounding the original orchard to investigate edge effects, examining how an artificial study boundary can make nearest-neighbor distances appear larger when nearby plants outside the boundary are not observed. The central lesson is that different spatial statistics describe different characteristics of the same point pattern: quadrat methods measure concentration across areas, while nearest-neighbor analysis measures separation among observations, and both depend on careful analytical design.
+
+<br>
+<a href="../slides/WK4-C1-PointPatterns.pdf">Lecture Slides - Describe Point Patterns</a>
 </details>
 
 
