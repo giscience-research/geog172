@@ -69,6 +69,8 @@ This week's activity revisits the Random Orchard using a separation-based approa
 
 <br>
 <a href="../slides/WK4-C1-PointPatterns.pdf">Lecture Slides - Describe Point Patterns</a>
+<br>
+<a href="../slides/WK4-C2-AssessPointPatterns.pdf">Lecture Slides - Assess Point Patterns</a>
 </details>
 
 
