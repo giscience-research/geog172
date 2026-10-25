@@ -53,9 +53,9 @@ This week's activities introduce the absence of independence and the different p
 In <em>Spatial Clues in the New England Woods</em>, students work in pairs to classify excerpts about the forest landscape as examples of first-order variation, second-order variation, directional variation, or insufficient evidence. The clues illustrate how spatial patterns may be driven by local environmental conditions, interactions among nearby trees and landscape features, or processes with a directional tendency. Together, the activities emphasize that spatial patterns reflect data-generating processes and that identifying those processes is essential for choosing and interpreting spatial statistical methods.
 
 <br>
-<a href="../slides/WK3-C1-Randomness.pdf">Lecture Slides - Randomness and Spatial Effects</a>
+<a href="../slides/Wk3-C1-Randomness.pdf">Lecture Slides - Randomness and Spatial Effects</a>
 <br>
-<a href="../slides/WK3-C2-SpatialSampling.pdf">Lecture Slides - Spatial Sampling</a>
+<a href="../slides/Wk3-C2-SpatialSampling.pdf">Lecture Slides - Spatial Sampling</a>
 
 </details>
 
