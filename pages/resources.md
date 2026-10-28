@@ -76,6 +76,22 @@ This week's activity revisits the Random Orchard using a separation-based approa
 
 <br>
 
+<details>
+<summary><strong>&nbsp; Week 5 - The MAUP Family Feud & Reconstructing Openshaw's Workflow</strong></summary>
+
+This week's activities explore the Modifiable Areal Unit Problem (MAUP) through a conceptual competition and a workflow reconstruction exercise. In <em>The MAUP Family Feud</em>, students compete in teams to classify weighted true-or-false statements about the scale and aggregation problems, Openshaw and Taylor's Iowa experiment, alternative zoning and grouping systems, and the effects of spatial autocorrelation and contiguity. The activity reinforces that different aggregations of the same underlying data can produce substantially different statistical results.
+
+In the second activity, students work in groups to reconstruct Openshaw's experimental workflow from a set of shuffled components. They identify the original 99-county data, alternative spatial units and aggregation schemes, repeated analyses, and resulting correlation coefficients, while distinguishing explicit research steps from the GIS operations needed to implement them. Together, the activities emphasize that statistical results depend not only on the data and methods selected, but also on scale, zone boundaries, repetition, and researcher decisions.
+
+<br>
+<!-- Add Week 5 lecture slides here. -->
+<a href="../slides/WK5-C1-MAUP.pdf">Lecture Slides - The MAUP Family Feud</a>
+<br>
+</details>
+
+
+<br>
+
 <br>
 
 ## Statistical Demonstrations
