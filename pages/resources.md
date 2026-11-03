@@ -97,6 +97,22 @@ In <em>A Night at the Spatial Casino</em>, students explore the variability of M
 
 <br>
 
+<details>
+<summary><strong>&nbsp; Week 6 - Spatial Speed Networking & Uncle Moran's Block Party</strong></summary>
+
+This week's activities move from defining spatial relationships to measuring global spatial autocorrelation. In <em>Spatial Speed Networking</em>, pairs receive one of 20 real-world geographic cases and create a LinkedIn-style SpatialIn profile. They identify the spatial objects and process, decide what makes two objects related, choose an appropriate distance or relationship measure, and select a spatial weights scheme. During the networking round, students compare profiles using blue, orange, and green stickers to find cases with similar relationship measures, spatial weights methods, or overall analytical reasoning. The activity emphasizes that different geographic problems can use the same spatial representation, while similar problems may require different definitions of neighborhood or distance.
+
+<!--
+In <em>Uncle Moran's Block Party</em>, eight groups receive different arrangements of the same six attendance values—1, 2, 3, 7, 8, and 9—along a six-house street. Using immediate next-door neighbors as the spatial weights structure, students calculate the mean, deviations, squared deviations, neighboring deviation products, $S_0$, and Moran's $I$ by hand. They then compare the arrangements to identify the strongest positive and negative spatial autocorrelation. The central lesson is that Moran's $I$ depends on both attribute values and their spatial arrangement: rearranging the same values changes which households are neighbors and therefore changes the statistic.
+-->
+
+<br>
+<a href="../slides/WK6-C1-SpatialRelationships.pdf">Spatial Relationships</a>
+</details>
+
+
+<br>
+
 ## Statistical Demonstrations
 
 A series of computational notebooks presenting geographic concepts and spatial statistics with R code demonstrating their implementation. These materials draw extensively from *Spatial Statistics for Geography* and *Geographic Information Analysis*.
