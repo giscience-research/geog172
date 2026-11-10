@@ -112,6 +112,21 @@ In <em>Uncle Moran's Block Party</em>, eight groups receive different arrangemen
 
 <br>
 
+<details>
+<summary><strong>&nbsp; Week 7 - Captain Getis' Sunken Treasure Hunt</strong></summary>
+
+In <em>Captain Getis' Sunken Treasure Hunt</em>, students work in pirate crews to search for hidden treasure on a 20 × 30 grid showing the number of gold coins detected in each cell. They first distinguish isolated high values from regions where high values cluster, then select candidate locations for excavation. Using queen contiguity and a 3 × 3 neighborhood window, students calculate the local Getis-Ord $G_i$ statistic from the sum of neighboring values and compare the results across candidate cells.
+
+Students then use instructor-provided expected values and an approximate standard deviation to calculate local $G_i$ z-scores and assess whether each candidate is an unusually high concentration, or hotspot. The activity emphasizes that local statistics reveal where concentrations occur in a map, complementing global statistics that summarize the pattern as a whole. It also highlights that identifying a statistically unusual hotspot does not by itself reveal the geographic process that generated it: the same local pattern may be consistent with different underlying processes.
+
+<br>
+<a href="../slides/WK7-C1-LocalStats.pdf">Lecture Slides - Local Spatial Statistics</a>
+<br>
+</details>
+
+
+<br>
+
 ## Statistical Demonstrations
 
 A series of computational notebooks presenting geographic concepts and spatial statistics with R code demonstrating their implementation. These materials draw extensively from *Spatial Statistics for Geography* and *Geographic Information Analysis*.
