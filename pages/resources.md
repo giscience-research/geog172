@@ -122,6 +122,7 @@ Students then use instructor-provided expected values and an approximate standar
 <br>
 <a href="../slides/WK7-C1-LocalStats.pdf">Lecture Slides - Local Spatial Statistics</a>
 <br>
+<a href="../slides/WK7-C2-Inference.pdf">Lecture Slides - Inference and Multiple Testing</a>
 </details>
 
 
