@@ -142,7 +142,7 @@ A series of computational notebooks presenting geographic concepts and spatial s
 | 5 | [Understanding Modifiable Area Unit Problem](../demo/WK5-MAUP.html) |
 | 6 | [Global Statistics](../demo/WK6-Global.html)<br> [Moran's I Calculation](../demo/Morans-I-by-Hand.pdf) |
 | 7 | [Local Statistics](../demo/WK7-Local.html) |
-| 8 | [Impacted Inference](../demo/WK8-Inference.html) |
+| 8 | [Impacted Inference](../demo/WK8-Inference.html) <br> [Regression Fundamentals](../demo/WK8-Regression.html) |
 | 9 | TBD |
 | 10 | TBD |
 
