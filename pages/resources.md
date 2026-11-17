@@ -128,6 +128,21 @@ Students then use instructor-provided expected values and an approximate standar
 
 <br>
 
+<details>
+<summary><strong>&nbsp; Week 8 - The Regression Clickbait on Midwest Daily</strong></summary>
+
+In <em>The Regression Clickbait on Midwest Daily</em>, students work as editors fact-checking seven newspaper headlines based on an OLS regression of Democratic vote share across 242 counties in Michigan, Wisconsin, and Minnesota. Working in groups, they use colored stickers to classify each headline as accurate, misleading, or wrong, then identify the statistical problem and propose a more precise revision when needed.
+
+The activity focuses on interpreting regression coefficients, statistical significance, model fit, units, and the difference between association and causation. It also highlights common errors in geographic data analysis, including treating percentage points as percentages, misinterpreting logged predictors, reading a nonsignificant coefficient as proof of no effect, overinterpreting an implausible intercept, and drawing conclusions about individuals from county-level data. The central lesson is that regression results must be communicated with attention to the model's scale, uncertainty, conditioning assumptions, and level of observation.
+
+<br>
+<a href="../slides/WK8-C1-RegressionFundamentals.pdf">Lecture Slides - Regression Fundamentals</a>
+<br>
+</details>
+
+
+<br>
+
 ## Statistical Demonstrations
 
 A series of computational notebooks presenting geographic concepts and spatial statistics with R code demonstrating their implementation. These materials draw extensively from *Spatial Statistics for Geography* and *Geographic Information Analysis*.
