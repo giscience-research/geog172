@@ -135,9 +135,12 @@ In <em>The Regression Clickbait on Midwest Daily</em>, students work as editors 
 
 The activity focuses on interpreting regression coefficients, statistical significance, model fit, units, and the difference between association and causation. It also highlights common errors in geographic data analysis, including treating percentage points as percentages, misinterpreting logged predictors, reading a nonsignificant coefficient as proof of no effect, overinterpreting an implausible intercept, and drawing conclusions about individuals from county-level data. The central lesson is that regression results must be communicated with attention to the model's scale, uncertainty, conditioning assumptions, and level of observation.
 
+In <em>The Containment Crisis of Jurassic Park</em>, students investigate rising dinosaur danger across 30 containment sectors using a simulated spatial regression problem. They begin with an OLS model by calculating fitted values and residuals, then map the residuals to identify geographic patterns in what the model leaves unexplained. After considering a possible spillover mechanism between neighboring sectors, students use a three-nearest-neighbor weights matrix to calculate spatial lags and compare OLS and spatial-lag fitted values. The activity emphasizes that spatial patterns in residuals can reveal dependence omitted from an initial regression model and motivate a more convincing explanation of geographic variation.
+
 <br>
 <a href="../slides/WK8-C1-RegressionFundamentals.pdf">Lecture Slides - Regression Fundamentals</a>
 <br>
+<a href="../slides/WK8-C2-SpatialRegression.pdf">Lecture Slides - Spatial Regression 1</a>
 </details>
 
 
