@@ -160,8 +160,8 @@ A series of computational notebooks presenting geographic concepts and spatial s
 | 5 | [Understanding Modifiable Area Unit Problem](../demo/WK5-MAUP.html) |
 | 6 | [Global Statistics](../demo/WK6-Global.html)<br> [Moran's I Calculation](../demo/Morans-I-by-Hand.pdf) |
 | 7 | [Local Statistics](../demo/WK7-Local.html) |
-| 8 | [Impacted Inference](../demo/WK8-Inference.html) <br> [Regression Fundamentals](../demo/WK8-Regression.html) |
-| 9 | TBD |
+| 8 | [Impacted Inference](../demo/WK8-Inference.html) <br> [Regression Fundamentals](../demo/WK8-Regression.html)<br> [Spatial Dependence](../demo/WK8-Spatial-Dependence.html) |
+| 9 | [Spatial Regression](../demo/WK9-Spatial-Regression.html) |
 | 10 | TBD |
 
 Demonstration of selected statistics in alternative software (e.g., ArcPro, GeoDa) are available on the canvas website for this course.
@@ -172,7 +172,6 @@ Two resources for installing R and RStudio and getting started with R:
 
 - [ModernDive, Chapter 1: Getting Started with Data in R](https://moderndive.com/v2/01-getting-started.html)
 - [swirl](https://swirlstats.com/students.html): An interactive way to learn R in the R console.
-
 [R For Data Science 2e](https://r4ds.hadley.nz/): Free web version of book in R Series. Introduces R and the tidyverse.
 
 [Statistical Learning with R](https://www.stat.berkeley.edu/users/rabbee/s154/ISLR_First_Printing.pdf): Free online version of the book. Covers statistical learning methods with R.
